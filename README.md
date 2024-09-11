@@ -1,5 +1,5 @@
-# PortfolioProjects
 Welcome to my Data Analytics Portfolio!
-My name is Abby Sowemimo and I have a Master's Degree in Analytics from Northeastern University.
-I have developed a strong foundation in Data Analytics, Visualization and Project Management
-So I am here to showcase some of the projects I have worked on, on Python, R programing, SparklyR, PowerBi, Tableau , and SQL
+Hi, my name is Abby Sowemimo, and I hold a Master's Degree in Analytics from Northeastern University. 
+With a solid foundation in data analytics, visualization, and project management, I am excited to showcase the projects I've worked on. 
+My experience spans across tools and technologies such as Python, R programming, SparklyR, Power BI, Tableau, and SQL. 
+Each project demonstrates my ability to analyze data, generate insights, and deliver impactful solutions to complex business challenges.
